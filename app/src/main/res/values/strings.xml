@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random_text">"Apple may finally be getting round to updating the 13-inch MacBook Pro with Intel’s tenth generation processors. The good news is that the MacOS powered laptop going to get a bucketload of extra power"</string>
+</resources>
